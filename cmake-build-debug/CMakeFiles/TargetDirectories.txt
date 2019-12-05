@@ -1,0 +1,3 @@
+/Users/soraya/Desktop/Exercises for Programmers/SimpleMath/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/soraya/Desktop/Exercises for Programmers/SimpleMath/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/soraya/Desktop/Exercises for Programmers/SimpleMath/cmake-build-debug/CMakeFiles/SimpleMath.dir
